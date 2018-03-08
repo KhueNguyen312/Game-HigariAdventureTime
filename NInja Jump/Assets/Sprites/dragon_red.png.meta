@@ -1,0 +1,918 @@
+fileFormatVersion: 2
+guid: 23260e2b3f6c202489af311c40787922
+timeCreated: 1493623472
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragon_red_0
+    21300002: dragon_red_1
+    21300004: dragon_red_2
+    21300006: dragon_red_3
+    21300008: dragon_red_4
+    21300010: dragon_red_5
+    21300012: dragon_red_6
+    21300014: dragon_red_7
+    21300016: dragon_red_8
+    21300018: dragon_red_9
+    21300020: dragon_red_10
+    21300022: dragon_red_11
+    21300024: dragon_red_12
+    21300026: dragon_red_13
+    21300028: dragon_red_14
+    21300030: dragon_red_15
+    21300032: dragon_red_16
+    21300034: dragon_red_17
+    21300036: dragon_red_18
+    21300038: dragon_red_19
+    21300040: dragon_red_20
+    21300042: dragon_red_21
+    21300044: dragon_red_22
+    21300046: dragon_red_23
+    21300048: dragon_red_24
+    21300050: dragon_red_25
+    21300052: dragon_red_26
+    21300054: dragon_red_27
+    21300056: dragon_red_28
+    21300058: dragon_red_29
+    21300060: dragon_red_30
+    21300062: dragon_red_31
+    21300064: dragon_red_32
+    21300066: dragon_red_33
+    21300068: dragon_red_34
+    21300070: dragon_red_35
+    21300072: dragon_red_36
+    21300074: dragon_red_37
+    21300076: dragon_red_38
+    21300078: dragon_red_39
+    21300080: dragon_red_40
+    21300082: dragon_red_41
+    21300084: dragon_red_42
+    21300086: dragon_red_43
+    21300088: dragon_red_44
+    21300090: dragon_red_45
+    21300092: dragon_red_46
+    21300094: dragon_red_47
+    21300096: dragon_red_48
+    21300098: dragon_red_49
+    21300100: dragon_red_50
+    21300102: dragon_red_51
+    21300104: dragon_red_52
+    21300106: dragon_red_53
+    21300108: dragon_red_54
+    21300110: dragon_red_55
+    21300112: dragon_red_56
+    21300114: dragon_red_57
+    21300116: dragon_red_58
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon_red_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1133
+        width: 129
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1133
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1133
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_3
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 925
+        width: 238
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1133
+        width: 133
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1133
+        width: 137
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_6
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1133
+        width: 139
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_7
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1133
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_8
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1133
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_9
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1133
+        width: 137
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_10
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1133
+        width: 137
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_11
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1133
+        width: 136
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_12
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1133
+        width: 135
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_13
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1133
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_14
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1133
+        width: 131
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 924
+        width: 254
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_16
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 926
+        width: 267
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_17
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 880
+        width: 264
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_18
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 820
+        width: 212
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_19
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 841
+        width: 237
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_20
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 896
+        width: 258
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_21
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 922
+        width: 270
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 628
+        width: 135
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_23
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 628
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 629
+        width: 170
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_25
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 629
+        width: 169
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_26
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 628
+        width: 195
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_27
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 628
+        width: 223
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_28
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 628
+        width: 227
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_29
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 628
+        width: 215
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_30
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 628
+        width: 201
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_31
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 628
+        width: 179
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_32
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 628
+        width: 157
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_33
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 628
+        width: 136
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 372
+        width: 135
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 164
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_36
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 372
+        width: 175
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_37
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 372
+        width: 167
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_38
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 372
+        width: 166
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_39
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 372
+        width: 160
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_40
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 373
+        width: 167
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_41
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 373
+        width: 187
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_42
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 373
+        width: 191
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_43
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 373
+        width: 226
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_44
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 375
+        width: 244
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 119
+        width: 234
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 119
+        width: 235
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_47
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 119
+        width: 226
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_48
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 118
+        width: 199
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_49
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 118
+        width: 188
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_50
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 116
+        width: 168
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_51
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 116
+        width: 139
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 140
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 180
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_54
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1
+        width: 190
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_55
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1
+        width: 180
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_56
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1
+        width: 169
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_57
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1
+        width: 157
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_red_58
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 138
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

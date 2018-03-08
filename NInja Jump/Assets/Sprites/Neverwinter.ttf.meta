@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a915cf51b5583344387caab22d738b2b
+timeCreated: 1495103296
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neverwinter
+  fontNames:
+  - Neverwinter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

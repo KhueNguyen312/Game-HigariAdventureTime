@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 9349c8b3a6903a14085a375f1fee3467
+timeCreated: 1493649578
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_effect_rip_by_draknorok-d8j7zm5_0
+    21300002: fire_effect_rip_by_draknorok-d8j7zm5_1
+    21300004: fire_effect_rip_by_draknorok-d8j7zm5_2
+    21300006: fire_effect_rip_by_draknorok-d8j7zm5_3
+    21300008: fire_effect_rip_by_draknorok-d8j7zm5_4
+    21300010: fire_effect_rip_by_draknorok-d8j7zm5_5
+    21300012: fire_effect_rip_by_draknorok-d8j7zm5_6
+    21300014: fire_effect_rip_by_draknorok-d8j7zm5_7
+    21300016: fire_effect_rip_by_draknorok-d8j7zm5_8
+    21300018: fire_effect_rip_by_draknorok-d8j7zm5_9
+    21300020: fire_effect_rip_by_draknorok-d8j7zm5_10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 20
+        width: 31
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 20
+        width: 44
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 16
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 12
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 14
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 15
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 13
+        width: 50
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_9
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 19
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_effect_rip_by_draknorok-d8j7zm5_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 19
+        width: 28
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

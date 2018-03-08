@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 955141c6ea939d34888d52d102d64c01
+timeCreated: 1493666892
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stock-vector-lightning-animation-game-animation-389934094_0
+    21300002: stock-vector-lightning-animation-game-animation-389934094_1
+    21300004: stock-vector-lightning-animation-game-animation-389934094_2
+    21300006: stock-vector-lightning-animation-game-animation-389934094_3
+    21300008: stock-vector-lightning-animation-game-animation-389934094_4
+    21300010: stock-vector-lightning-animation-game-animation-389934094_5
+    21300012: stock-vector-lightning-animation-game-animation-389934094_6
+    21300014: stock-vector-lightning-animation-game-animation-389934094_7
+    21300016: stock-vector-lightning-animation-game-animation-389934094_8
+    21300018: stock-vector-lightning-animation-game-animation-389934094_9
+    21300020: stock-vector-lightning-animation-game-animation-389934094_10
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_0
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1103
+        width: 130
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 971
+        width: 195
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 932
+        width: 192
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_3
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 932
+        width: 155
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 586
+        width: 151
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 562
+        width: 189
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_6
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 573
+        width: 161
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_7
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 573
+        width: 165
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 236
+        width: 161
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 323
+        width: 122
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: stock-vector-lightning-animation-game-animation-389934094_10
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 325
+        width: 80
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
